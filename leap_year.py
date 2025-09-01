@@ -6,5 +6,4 @@ def leap_year():
        print(f"El año {anio} no es bisiesto")    
 
 if __name__ == "__main__":
-
     leap_year()       

@@ -26,8 +26,9 @@ def line():
     print(f"\tP1 ({x1}, {y1})")
     print(f"\tP2 ({x2}, {y2})")
     print("")
-    
+
 
     print(f"\nLa distancia entre ellos es: {distancia}")
 
-line()    
+if __name__ == "__main__":
+    line()    

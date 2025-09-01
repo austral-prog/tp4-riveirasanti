@@ -28,7 +28,7 @@ def line():
     print("")
 
 
-    print(f"\nLa distancia entre ellos es: {distancia}")
+    print(f"La distancia entre ellos es: {distancia}")
 
 if __name__ == "__main__":
     line()    

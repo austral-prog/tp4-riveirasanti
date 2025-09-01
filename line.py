@@ -18,11 +18,11 @@ def line():
     print(f"El coeficiente X2 de su ecuación de la recta es: {x2}")
     print("")
 
-    print("\nPara la siguiente ecuación:")
+    print("Para la siguiente ecuación:")
     print(f"\tY = {a}X + {b}")
     print("")
 
-    print("\nDados los siguientes puntos:")
+    print("Dados los siguientes puntos:")
     print(f"\tP1 ({x1}, {y1})")
     print(f"\tP2 ({x2}, {y2})")
     print("")
